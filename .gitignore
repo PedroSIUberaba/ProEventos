@@ -76,3 +76,9 @@ baseline.json
 # Ignore AIO files, useful when changing branches 
 aio/node_modules
 aio/out-tsc
+
+#Excluindo DB
+
+*.db
+*.db-shm
+*.db-wal
